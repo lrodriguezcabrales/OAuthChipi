@@ -7,12 +7,12 @@
  * of the MIT license.  See the LICENSE file for details.
  */
 
-namespace OauthChipi;
+namespace OAuthChipi;
 
 /**
  * This class is the base class for the Mailgun SDK.
  */
-class OauthChipi
+class OAuthChipi
 {
 	private $key;
 
