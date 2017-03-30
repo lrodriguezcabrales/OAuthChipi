@@ -1,0 +1,20 @@
+{
+    "name": "lrodriguez/auth-chipi",
+    "description": "Autorizacion oauth chipichipi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lrodriguez",
+            "email": "lrodriguez@araujoysegovia.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "OAuthChipi": "src/"
+        }
+    }
+    
+}
+
