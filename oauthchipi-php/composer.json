@@ -1,6 +1,6 @@
 {
     "name": "lrodriguez/auth-chipi",
-    "description": "Autenticacion Chipichipi",
+    "description": "Autorizacion oauth chipichipi",
     "license": "MIT",
     "authors": [
         {
@@ -16,3 +16,4 @@
         }
     }
 }
+
